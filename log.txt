@@ -1,0 +1,16 @@
+Jan 21, 2022 11:53:10 AM com.company.Client$1 run
+WARNING: Warning Message
+Jan 21, 2022 11:53:10 AM com.company.Client$1 run
+SEVERE: Severe Message
+Jan 21, 2022 11:53:12 AM com.company.Client$1 run
+WARNING: Warning Message
+Jan 21, 2022 11:53:12 AM com.company.Client$1 run
+SEVERE: Severe Message
+Jan 21, 2022 11:55:18 AM com.company.Client$1 run
+WARNING: Warning Message
+Jan 21, 2022 11:55:18 AM com.company.Client$1 run
+SEVERE: Severe Message
+Jan 21, 2022 11:55:19 AM com.company.Client$1 run
+WARNING: Warning Message
+Jan 21, 2022 11:55:19 AM com.company.Client$1 run
+SEVERE: Severe Message
